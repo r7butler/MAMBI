@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548879834433.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4074280287",
+    "id" : "69D99CF3",
+    "lastKnownWriteTime" : 1549925006,
+    "last_content_update" : 1549925007309,
+    "path" : "L:/MAMBI Rollout_djg/SF Bay RMP/R Stuff/djg_MAMBI/Final MAMBI Tool/MAMBI Calculator/MAMBI calculator-djg.R",
+    "project_path" : "MAMBI calculator-djg.R",
+    "properties" : {
+        "cursorPosition" : "21,16",
+        "scrollLine" : "12"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
